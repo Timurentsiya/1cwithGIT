@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7bc1ef44-32af-4395-91c8-ba05292abfd0">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7bc1ef44-32af-4395-91c8-ba05292abfd0">
   <producedTypes>
     <objectType typeId="416d3af1-341f-41ff-89a1-e278aaebd75b" valueTypeId="2f7eefaf-4be8-4ee4-8594-9c7dc965714a"/>
     <refType typeId="7c1eacb3-7052-42c1-a7ee-d4795cfd0b2a" valueTypeId="3df4b59e-4b62-4815-83d6-5c07084231c0"/>
@@ -30,7 +30,6 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-<<<<<<< master
   <attributes uuid="6b7beaf6-2d03-4da0-a497-7545a4f45e3f">
     <name>РеквизитРазработчика2</name>
     <synonym>
@@ -103,6 +102,4 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-=======
->>>>>>> 268623b РЕквизит раз 1
 </mdclass:Catalog>
